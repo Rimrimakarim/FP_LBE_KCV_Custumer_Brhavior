@@ -86,7 +86,7 @@ print(prediction)
 
 | Eksperimen | F1-Score (Test) |
 |---|---|
-| Decision Tree (Baseline) | 0,587 |
+| Decision Tree (Baseline) | 0,587 | 
 | Decision Tree (Tuned) | 0,669 |
 | Decision Tree Tuned + Random Oversampling | 0,665 |
 | **Decision Tree Tuned + SMOTE** | **0,673** (terbaik) |
