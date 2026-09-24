@@ -91,7 +91,7 @@ print(prediction)
 | Decision Tree Tuned + Random Oversampling | 0,665 |
 | **Decision Tree Tuned + SMOTE** | **0,673** (terbaik) |
 
-Detail lengkap (termasuk confusion matrix dan perbandingan semua model) ada di notebook, Section 7–8.
+Detail lengkap (termasuk confusion matrix dan perbandingan semua model) ada di notebook, Section 8–9.
 
 ## 6. Batasan
 
@@ -100,4 +100,4 @@ Detail lengkap (termasuk confusion matrix dan perbandingan semua model) ada di n
 - Hanya 3 model klasik yang dicoba (sesuai ketentuan FP — tanpa ensemble/deep learning untuk prediksi akhir).
 - Threshold klasifikasi memakai default 0,5, belum dioptimasi.
 
-Detail lengkap limitation & saran pengembangan ada di notebook, Section 10.
+Detail lengkap limitation & saran pengembangan ada di notebook, Section 11.
