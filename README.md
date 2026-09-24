@@ -1,6 +1,6 @@
 # Prediksi Konversi Pengunjung E-Commerce Berdasarkan Perilaku Browsing Customer
 
-Final Project Lab Based Expo — prediksi apakah sesi kunjungan e-commerce akan berakhir dengan transaksi (`Revenue`) berdasarkan perilaku browsing pengunjung (durasi halaman, jumlah halaman, bounce/exit rate, dll).
+Final Project LBE KCV — prediksi apakah sesi kunjungan e-commerce akan berakhir dengan transaksi (`Revenue`) berdasarkan perilaku browsing pengunjung (durasi halaman, jumlah halaman, bounce/exit rate, dll).
 
 ## 1. Dataset
 
